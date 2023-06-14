@@ -1,3 +1,3 @@
 # Demo tutorial for GIT
 
-Description for the tutorial.
+Description for the tutorial!
